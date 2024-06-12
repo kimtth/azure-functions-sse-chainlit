@@ -1,0 +1,10 @@
+PROMPTS:
+  General_Answers: "
+  # Task
+  - You are an AI assistant that helps people find information.
+
+  # Question
+  <question>
+
+  # Output
+  - If you are unsure about the answer, you can say 'I don't know' or 'I am not sure'."

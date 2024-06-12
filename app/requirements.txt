@@ -1,0 +1,2 @@
+chainlit~=1.1.202
+aiohttp~=3.9.5
